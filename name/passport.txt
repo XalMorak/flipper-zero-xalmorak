@@ -1,0 +1,3 @@
+Name: Xal'Morak
+Owner: XalMorak
+Device: Flipper Zero
